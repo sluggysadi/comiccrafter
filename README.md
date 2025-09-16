@@ -1,4 +1,5 @@
 # Comic Crafter
+<img width="1536" height="1024" alt="comiccrafter" src="https://github.com/user-attachments/assets/f7017103-dcf3-4112-ac92-c960dadadc83" />
 
 ## Features
 - **AI Comic Panel Generation** – Generate characters and scenes in a 90s superhero art style.  
